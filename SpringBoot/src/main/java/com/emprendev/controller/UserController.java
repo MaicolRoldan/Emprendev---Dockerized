@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.*;
 
-@CrossOrigin(origins = "http://localhost")
+@CrossOrigin(origins = "http://127.0.0.1:5500")
 @RestController
 @RequestMapping(path = "emprendev/v1/user")
 public class UserController {

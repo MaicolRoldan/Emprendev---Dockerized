@@ -1,2 +1,0 @@
-2024-06-11 16:53:48 - Este log es de warning
-2024-06-11 16:54:20 - Este log es de info

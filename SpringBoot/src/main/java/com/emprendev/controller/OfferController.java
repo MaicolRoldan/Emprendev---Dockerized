@@ -16,7 +16,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/api/offers")
-@CrossOrigin(origins = "http://localhost") // Permitir CORS si es necesario
+@CrossOrigin(origins = "http://127.0.0.1:5500") // Permitir CORS si es necesario
 public class OfferController {
 
     @Autowired
